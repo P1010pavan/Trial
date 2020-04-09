@@ -4,5 +4,5 @@ from . import views
 
 urlpatterns = [
     path('', views.index1,name="openpage"),
-    path('contactus.html/',views.index2,name='contact'),
+
 ]

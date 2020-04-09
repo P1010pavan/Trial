@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="18bed703-f82c-4418-8563-748ee1dd87bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Default/templates/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Default/templates/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/templates/contactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Default/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
